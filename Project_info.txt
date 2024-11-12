@@ -1,0 +1,24 @@
+Project- Smart Parking System
+
+
+Flutter application with django as a backend
+
+RealVNC:
+PASSWORD-Venice-Weekend-Mouse-Shock
+
+Anvit's team
+
+raspberry pi 4- car parking
+Libraries needed:-
+
+
+
+
+
+
+
+
+
+raspberry pi 5- speed monitoring
+
+references:-https://www.sciencedirect.com/science/article/pii/S1077314217301108?via%3Dihub
